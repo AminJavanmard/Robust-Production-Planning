@@ -1,6 +1,6 @@
 # Robust Lot-Sizing: Reference Implementations & Tutorials
 
-Educational materials and tutorials for production planning optimization under uncertainty.
+Educational materials and tutorials for production planning optimisation under uncertainty.
 
 ## Contents
 
@@ -34,7 +34,7 @@ jupyter notebook tutorials/tutorial_instance_generator.ipynb
 ## Requirements
 
 - Python 3.7+
-- Gurobi Optimizer (with Python interface)
+- Gurobi Optimiser (with Python interface)
 - See `requirements.txt` for Python package dependencies
 
 ## References
