@@ -41,7 +41,7 @@ jupyter notebook tutorials/tutorial_instance_generator.ipynb
 
 Bienstock, D., & Özbay, N. (2008). Computing robust basestock levels. 
 *Discrete Optimization*, 5(2), 389–414. 
-https://doi.org/10.1016/j.disopt.2007.10.001
+https://doi.org/10.1016/j.disopt.2006.12.002
 
 ## License
 
